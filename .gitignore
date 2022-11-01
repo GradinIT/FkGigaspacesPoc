@@ -1,0 +1,12 @@
+**/.idea/**
+*.iml
+**/build/*
+**/target/*
+**/.gradle/*
+**/out/*
+**/logs/*
+**/.idea/*
+*.BAT
+*.bat
+*.DS_Store
+*.jpb/*
